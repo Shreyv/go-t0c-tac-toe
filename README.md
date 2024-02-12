@@ -1,4 +1,4 @@
-# go-t0c-tac-toe
+# go-tic-tac-toe
 Simple Client Server game using Go. A CLI game using Min Max Algorithm
 
 ## run Server first, under server folder
